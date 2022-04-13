@@ -1,0 +1,4 @@
+[submodule "Sven9900/l10n_hr_obracun_place"]
+	path = Sven9900/l10n_hr_obracun_place
+	url = git@github.com:Sven9900/l10n_hr_obracun_place.git
+	branch = odoo14
